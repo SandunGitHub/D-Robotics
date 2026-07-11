@@ -30,3 +30,4 @@ Week 7 — Demo video & packaging
 •	Demo video (3-7 min, 1080p); tag repo v1.0-demo
 •	Technical docs; community post; showcase PR update
 •	Milestone M7 (Stage 3 complete): full bundle submitted
+
