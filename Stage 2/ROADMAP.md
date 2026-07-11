@@ -4,6 +4,7 @@ Version: 1.0 · Date: 2026-07-12
 Target: D-Robotics RDK X5 Dream Keeper Challenge 2026
 
 ####Stage 2 — Build (design & docs)
+
 **Week 1 — Design, measurable goals and module testing**
 •	Design brief (scenario, user, AI capabilities, innovation)
 •	Measure real metrics: YOLOv8 FPS/latency, DeepSORT algorithm
@@ -20,6 +21,7 @@ Target: D-Robotics RDK X5 Dream Keeper Challenge 2026
 •	Milestone M3 (Stage 2 complete): showcase PR opened
 
 ####Stage 3 — Launch (integrate & demo)
+
 **Week 4 — Prototype integration**
 •	Module testing (BPU vision + Obstacle avoidance + Motors + Safety)
 •	System integration. (hardware + software)
