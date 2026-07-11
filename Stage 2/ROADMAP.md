@@ -15,7 +15,7 @@ Target: D-Robotics RDK X5 Dream Keeper Challenge 2026
 •	ROS 2 node graph design, CPU affinity / real-time table
 •	Milestone M2: architecture artifacts render on GitHub
 
-**Week 3 — Engineering plan **
+**Week 3 — Engineering plan**
 •	BOM, risk analysis (5 risks + mitigation + trigger), repo structure
 •	Public GitHub repo + showcase PR
 •	Milestone M3 (Stage 2 complete): showcase PR opened
@@ -26,8 +26,8 @@ Target: D-Robotics RDK X5 Dream Keeper Challenge 2026
 •	Module testing (BPU vision + Obstacle avoidance + Motors + Safety)
 •	System integration. (hardware + software)
 •	Milestone M4: fresh clone builds and launches
-**
-Week 5 — Real-time inference & benchmarks**
+
+**Week 5 — Real-time inference & benchmarks**
 •	BPU acceleration proof; two concurrent workloads
 •	Benchmark table (resolution, FPS/latency, computer vision (CV) model)
 •	Milestone M5: benchmark + overlay evidence
